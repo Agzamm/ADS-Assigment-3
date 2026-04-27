@@ -1,7 +1,7 @@
 ## Answer on question
 **1)Which sorting algorithm performed faster? Why?**
 
-Typically Quick Sort / Merge Sort are faster than simple ones like Bubble Sort because they use divide-and-conquer → fewer comparisons overall (≈ O(n log n) vs O(n²)).
+Typically Quick Sort and Merge Sort are faster than simple ones like Bubble Sort because they use divide-and-conquer, therefore fewer comparisons overall ( O(n log n) vs O(n²)).
 
 **2) How does performance change with input size?**
 
